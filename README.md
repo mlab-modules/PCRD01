@@ -1,8 +1,27 @@
-PCRD01A
-=======
+<!--- PrjInfo ---> <!--- Please remove this line after manually editing --->
+<!--- 00a56be08b96043df9e37d6aff7b6990 --->
+<!--- Created:2022-02-16 21:58:49.396100: ---> 
+<!--- Author:: ---> 
+<!--- AuthorEmail:: ---> 
+<!--- Tags:: ---> 
+<!--- Ust:: ---> 
+<!--- Label --->
+<!--- ELabel ---> 
+<!--- Name:PCRD01A: --->
+# PCRD01A
+<!--- LongName --->
+## 
+<!--- ELongName ---> 
 
- 
+<!--- Lead --->
 
- 
+<!--- ELead ---> 
 
-<img src="https://raw.githubusercontent.com/roman-dvorak/Modules/master/Sensors/PCRD01A/PCRD01A_Top_Small.jpg" style="width:80.0%" />
+![PCRD01A](doc/img/PCRD01A_top_small.jpg) 
+
+
+<!--- Description --->
+<!--- EDescription --->
+<!--- Content --->
+<!--- EContent --->
+<sub><sup> Generated with [MLABweb](https://github.com/MLAB-project/MLABweb). (2022-02-16)</sup></sub>
