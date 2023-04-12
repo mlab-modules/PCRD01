@@ -22,7 +22,7 @@ Silk screen: TOP / BOTTOM
 
 Clearance: 0.2 mm (8 mils)
 
-Track width: 0.13 mm (5 mils)
+Track width: 0.4 mm (16 mils)
 
 - By design rules: 0.1 mm (4 mils)
 
@@ -51,8 +51,8 @@ Eurocircuits class: 10A
 
 Components count: (SMD/THT)
 
-- Top: 0/10 (THT)
-- Bottom: 27/2 (SMD + THT)
+- Top: 0/9 (THT)
+- Bottom: 29/1 (SMD + THT)
 
 Defined tracks:
 
@@ -64,10 +64,8 @@ Defined tracks:
 
 Used tracks:
 
-- 0.13 mm (5 mils) (1) defined: yes
-- 0.2 mm (8 mils) (29) defined: yes
-- 0.4 mm (16 mils) (68) defined: yes
-- 0.5 mm (20 mils) (89) defined: yes
+- 0.4 mm (16 mils) (65) defined: yes
+- 0.5 mm (20 mils) (81) defined: yes
 
 Defined vias:
 
