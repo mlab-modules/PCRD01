@@ -1,4 +1,4 @@
-description: Silicon diode cosmic radiation detector
+description: Semiconcductor cosmic radiation detector Silicon diode interface.
 github_branch: PCRD01A
 github_repo: PCRD01
 github_url: https://github.com/mlab-modules/PCRD01
@@ -11,4 +11,5 @@ tags:
 - ionizing-radiation
 - dosimeter
 - cosmic-rays
+- semiconductor-detector
 title: PCRD01
