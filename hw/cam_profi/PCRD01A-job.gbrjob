@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "6.0.11+dfsg-1~bpo11+1"
     },
-    "CreationDate": "2023-04-12T12:13:45+00:00"
+    "CreationDate": "2023-04-12T12:21:03+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "PCRD01",
       "GUID": "50435244-3031-42e6-9b69-6361645f7063",
-      "Revision": "rev?"
+      "Revision": "01A"
     },
     "Size": {
       "X": 50.388,
