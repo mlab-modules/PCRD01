@@ -10,8 +10,8 @@ images:
 - doc/gen/img/PCRD01-top.png
 - doc/gen/PCRD01-schematic.svg
 - doc/gen/img/PCRD01-top.svg
-- hw/cam_profi/docs/PCRD01A-assembly_page_02.svg
-- hw/cam_profi/docs/PCRD01A-assembly_page_01.svg
+- hw/cam_profi/docs/PCRD01B-assembly_page_02.svg
+- hw/cam_profi/docs/PCRD01B-assembly_page_01.svg
 mark: 50
 mod_ibom: hw/cam_profi/ibom/PCRD01-ibom.html
 mod_scheme: doc/gen/PCRD01-schematic.pdf
