@@ -5,6 +5,12 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "PCRD01A")
+    (rev "01A")
+    (company "www.mlab.cz")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (31 "B.Cu" signal)
@@ -1362,7 +1368,7 @@
   (dimension (type aligned) (layer "Dwgs.User") (tstamp 22c57550-763e-4e31-8bcc-31b7052030ed)
     (pts (xy 183.384 74.453) (xy 183.384 104.425))
     (height -5.204)
-    (gr_text "1,1800 palec" (at 186.888 89.279 90) (layer "Dwgs.User") (tstamp 22c57550-763e-4e31-8bcc-31b7052030ed)
+    (gr_text "1.1800 palec" (at 186.888 89.279 90) (layer "Dwgs.User") (tstamp 22c57550-763e-4e31-8bcc-31b7052030ed)
       (effects (font (size 1.5 1.5) (thickness 0.3)))
     )
     (format (units 0) (units_format 1) (precision 4))
@@ -1371,7 +1377,7 @@
   (dimension (type aligned) (layer "Dwgs.User") (tstamp 7fcf3c1e-c877-47e3-9242-d19a4ecb3cf0)
     (pts (xy 183.384 74.453) (xy 133.092 74.453))
     (height 3.302)
-    (gr_text "1,9800 palec" (at 158.238 69.351) (layer "Dwgs.User") (tstamp 7fcf3c1e-c877-47e3-9242-d19a4ecb3cf0)
+    (gr_text "1.9800 palec" (at 158.238 69.351) (layer "Dwgs.User") (tstamp 7fcf3c1e-c877-47e3-9242-d19a4ecb3cf0)
       (effects (font (size 1.5 1.5) (thickness 0.3)))
     )
     (format (units 0) (units_format 1) (precision 4))

@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "PCRD01A")
+    (rev "01A")
+    (company "www.mlab.cz")
+  )
+
   (lib_symbols
     (symbol "PCRD01A-rescue:AD8692" (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at 3.81 7.62 0)
@@ -1349,13 +1355,13 @@
     (pin "1" (uuid 005ed0d2-d002-4f24-aa22-147ff9a510e8))
     (pin "2" (uuid f96cb77c-7a81-44de-ae1e-232a9652f87a))
     (pin "3" (uuid a9e13b5a-7eb4-477f-8a39-d4c2b836fbd7))
-    (pin "4" (uuid 23d98270-9b7d-401b-8259-7ee1ecbb4a1f))
-    (pin "8" (uuid 31ffa50b-4a34-4ec7-a050-5e835365c9cd))
-    (pin "4" (uuid 23d98270-9b7d-401b-8259-7ee1ecbb4a1f))
+    (pin "4" (uuid 23d98270-9b7d-401b-8259-7ee1ecbb4a20))
+    (pin "8" (uuid 31ffa50b-4a34-4ec7-a050-5e835365c9ce))
+    (pin "4" (uuid 23d98270-9b7d-401b-8259-7ee1ecbb4a20))
     (pin "5" (uuid 592c0f22-200b-4d65-968f-bf29db4b61e6))
     (pin "6" (uuid d4f3bdc1-6020-4c90-9339-c248d68cd8e4))
     (pin "7" (uuid 1efd7c9f-d280-4d7e-8552-b3bcfbacc036))
-    (pin "8" (uuid 31ffa50b-4a34-4ec7-a050-5e835365c9cd))
+    (pin "8" (uuid 31ffa50b-4a34-4ec7-a050-5e835365c9ce))
   )
 
   (symbol (lib_id "PCRD01A-rescue:DIODE") (at 76.2 100.33 180) (unit 1)
@@ -1989,13 +1995,13 @@
     (pin "1" (uuid 741cb54d-6699-4234-9f8c-b87de74e77aa))
     (pin "2" (uuid b2766cee-96ed-4046-9c7a-803126c205ee))
     (pin "3" (uuid 4ec114bd-76d6-411b-a6e5-67c637168885))
-    (pin "4" (uuid 50aee159-e4ba-46bc-8d53-542c82637827))
-    (pin "8" (uuid 86ad2f84-1953-48a9-854d-0b0371620516))
-    (pin "4" (uuid 50aee159-e4ba-46bc-8d53-542c82637827))
+    (pin "4" (uuid 50aee159-e4ba-46bc-8d53-542c82637828))
+    (pin "8" (uuid 86ad2f84-1953-48a9-854d-0b0371620517))
+    (pin "4" (uuid 50aee159-e4ba-46bc-8d53-542c82637828))
     (pin "5" (uuid ee8e142a-22d3-4241-816c-6e62303a4fd3))
     (pin "6" (uuid 1617fac3-db7b-432b-bcf7-c6c09bb74d3a))
     (pin "7" (uuid 70af69eb-8deb-4891-a8d7-07d37fa2cdf8))
-    (pin "8" (uuid 86ad2f84-1953-48a9-854d-0b0371620516))
+    (pin "8" (uuid 86ad2f84-1953-48a9-854d-0b0371620517))
   )
 
   (symbol (lib_id "PCRD01A-rescue:JUMP_5X2") (at 31.75 168.91 180) (unit 1)
