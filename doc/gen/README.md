@@ -41,7 +41,7 @@ Via: 0.89/0.64 mm (35/25 mils)
 
 Outer Annular Ring: 0.07 mm (3 mils)
 
-- By design rules: 0.33 mm (13 mils)
+- By design rules: 0.26 mm (10 mils)
 
 Eurocircuits class: 10A
 - Using min drill 0.75 mm for an OAR of 0.07 mm
@@ -51,8 +51,8 @@ Eurocircuits class: 10A
 
 Components count: (SMD/THT)
 
-- Top: 0/9 (THT)
-- Bottom: 29/1 (SMD + THT)
+- Top: 0/8 (THT)
+- Bottom: 29/2 (SMD + THT)
 
 Defined tracks:
 
@@ -64,8 +64,8 @@ Defined tracks:
 
 Used tracks:
 
-- 0.4 mm (16 mils) (65) defined: yes
-- 0.5 mm (20 mils) (81) defined: yes
+- 0.4 mm (16 mils) (57) defined: yes
+- 0.5 mm (20 mils) (76) defined: yes
 
 Defined vias:
 
@@ -76,7 +76,8 @@ Used vias:
 
 Holes (excluding vias):
 
-- 0.9 mm (35 mils) (26)
+- 0.89 mm (35 mils) (3)
+- 0.9 mm (35 mils) (24)
 - 3.0 mm (118 mils) (4)
 
 Oval holes:
@@ -85,7 +86,7 @@ Oval holes:
 Drill tools (including vias and computing adjusts and rounding):
 
 - 0.75 mm (30 mils) (25)
-- 1.0 mm (39 mils) (26)
+- 1.0 mm (39 mils) (27)
 - 3.1 mm (122 mils) (4)
 
 
