@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/PCRD01.kicad_sch</source>
-    <date>Wed Apr 12 13:11:34 2023</date>
+    <date>Wed Apr 12 13:18:09 2023</date>
     <tool>Eeschema 6.0.11+dfsg-1~bpo11+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -28,10 +28,10 @@
       <value>4u7</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="ust_id">5e3ff8fc1287502a33bad7a3</field>
+        <field name="UST_ID">5e3ff8fc1287502a33bad7a3</field>
       </fields>
       <libsource lib="PCRD01A-rescue" part="C" description=""/>
-      <property name="ust_id" value="5e3ff8fc1287502a33bad7a3"/>
+      <property name="UST_ID" value="5e3ff8fc1287502a33bad7a3"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PCRD01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -41,10 +41,10 @@
       <value>12p</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="ust_id">5c70984712875079b91f8b31</field>
+        <field name="UST_ID">5c70984712875079b91f8b31</field>
       </fields>
       <libsource lib="PCRD01A-rescue" part="C" description=""/>
-      <property name="ust_id" value="5c70984712875079b91f8b31"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b31"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PCRD01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -54,10 +54,10 @@
       <value>100nF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="ust_id">5c70984712875079b91f8b4c</field>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="PCRD01A-rescue" part="C" description=""/>
-      <property name="ust_id" value="5c70984712875079b91f8b4c"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PCRD01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -67,10 +67,10 @@
       <value>100nF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="ust_id">5c70984712875079b91f8b4c</field>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="PCRD01A-rescue" part="C" description=""/>
-      <property name="ust_id" value="5c70984712875079b91f8b4c"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PCRD01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -80,10 +80,10 @@
       <value>10uF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="ust_id">5c70984712875079b91f8b53</field>
+        <field name="UST_ID">5c70984712875079b91f8b53</field>
       </fields>
       <libsource lib="PCRD01A-rescue" part="CP2" description=""/>
-      <property name="ust_id" value="5c70984712875079b91f8b53"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b53"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PCRD01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -93,10 +93,10 @@
       <value>100nF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="ust_id">5c70984712875079b91f8b4c</field>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="PCRD01A-rescue" part="C" description=""/>
-      <property name="ust_id" value="5c70984712875079b91f8b4c"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PCRD01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -106,10 +106,10 @@
       <value>330nF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="ust_id">5c70984712875079b91f8b4e</field>
+        <field name="UST_ID">5c70984712875079b91f8b4e</field>
       </fields>
       <libsource lib="PCRD01A-rescue" part="C" description=""/>
-      <property name="ust_id" value="5c70984712875079b91f8b4e"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4e"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PCRD01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -119,10 +119,10 @@
       <value>100nF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="ust_id">5c70984712875079b91f8b4c</field>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="PCRD01A-rescue" part="C" description=""/>
-      <property name="ust_id" value="5c70984712875079b91f8b4c"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PCRD01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -132,10 +132,10 @@
       <value>10uF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="ust_id">5c70984712875079b91f8b53</field>
+        <field name="UST_ID">5c70984712875079b91f8b53</field>
       </fields>
       <libsource lib="PCRD01A-rescue" part="CP2" description=""/>
-      <property name="ust_id" value="5c70984712875079b91f8b53"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b53"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PCRD01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -145,10 +145,10 @@
       <value>510pF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="ust_id">5c70984712875079b91f8b41</field>
+        <field name="UST_ID">5c70984712875079b91f8b41</field>
       </fields>
       <libsource lib="PCRD01A-rescue" part="C" description=""/>
-      <property name="ust_id" value="5c70984712875079b91f8b41"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b41"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PCRD01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -158,10 +158,10 @@
       <value>560pF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="ust_id">5c70984712875079b91f8b42</field>
+        <field name="UST_ID">5c70984712875079b91f8b42</field>
       </fields>
       <libsource lib="PCRD01A-rescue" part="C" description=""/>
-      <property name="ust_id" value="5c70984712875079b91f8b42"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b42"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PCRD01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -171,10 +171,10 @@
       <value>150pF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="ust_id">5c70984712875079b91f8b3d</field>
+        <field name="UST_ID">5c70984712875079b91f8b3d</field>
       </fields>
       <libsource lib="PCRD01A-rescue" part="C" description=""/>
-      <property name="ust_id" value="5c70984712875079b91f8b3d"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b3d"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PCRD01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -184,10 +184,10 @@
       <value>330nF</value>
       <footprint>MLAB_R:SMD-0805</footprint>
       <fields>
-        <field name="ust_id">5c70984712875079b91f8b4e</field>
+        <field name="UST_ID">5c70984712875079b91f8b4e</field>
       </fields>
       <libsource lib="PCRD01A-rescue" part="C" description=""/>
-      <property name="ust_id" value="5c70984712875079b91f8b4e"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4e"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PCRD01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -197,10 +197,10 @@
       <value>1u</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="ust_id">5c70984712875079b91f8b50</field>
+        <field name="UST_ID">5c70984712875079b91f8b50</field>
       </fields>
       <libsource lib="PCRD01A-rescue" part="C" description=""/>
-      <property name="ust_id" value="5c70984712875079b91f8b50"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b50"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PCRD01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -300,10 +300,10 @@
       <value>4k7</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="ust_id">5c70984612875079b91f8995</field>
+        <field name="UST_ID">5c70984612875079b91f8995</field>
       </fields>
       <libsource lib="PCRD01A-rescue" part="R" description=""/>
-      <property name="ust_id" value="5c70984612875079b91f8995"/>
+      <property name="UST_ID" value="5c70984612875079b91f8995"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PCRD01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -313,10 +313,10 @@
       <value>4k7</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="ust_id">5c70984612875079b91f8995</field>
+        <field name="UST_ID">5c70984612875079b91f8995</field>
       </fields>
       <libsource lib="PCRD01A-rescue" part="R" description=""/>
-      <property name="ust_id" value="5c70984612875079b91f8995"/>
+      <property name="UST_ID" value="5c70984612875079b91f8995"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PCRD01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -326,10 +326,10 @@
       <value>2M</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="ust_id">5c70984712875079b91f8aac</field>
+        <field name="UST_ID">5c70984712875079b91f8aac</field>
       </fields>
       <libsource lib="PCRD01A-rescue" part="R" description=""/>
-      <property name="ust_id" value="5c70984712875079b91f8aac"/>
+      <property name="UST_ID" value="5c70984712875079b91f8aac"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PCRD01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -339,10 +339,10 @@
       <value>2M</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="ust_id">5c70984712875079b91f8aac</field>
+        <field name="UST_ID">5c70984712875079b91f8aac</field>
       </fields>
       <libsource lib="PCRD01A-rescue" part="R" description=""/>
-      <property name="ust_id" value="5c70984712875079b91f8aac"/>
+      <property name="UST_ID" value="5c70984712875079b91f8aac"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PCRD01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -352,10 +352,10 @@
       <value>3k3</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="ust_id">5c70984612875079b91f8993</field>
+        <field name="UST_ID">5c70984612875079b91f8993</field>
       </fields>
       <libsource lib="PCRD01A-rescue" part="R" description=""/>
-      <property name="ust_id" value="5c70984612875079b91f8993"/>
+      <property name="UST_ID" value="5c70984612875079b91f8993"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PCRD01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -365,10 +365,10 @@
       <value>10k</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="ust_id">5c70984612875079b91f899f</field>
+        <field name="UST_ID">5c70984612875079b91f899f</field>
       </fields>
       <libsource lib="PCRD01A-rescue" part="R" description=""/>
-      <property name="ust_id" value="5c70984612875079b91f899f"/>
+      <property name="UST_ID" value="5c70984612875079b91f899f"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PCRD01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -378,10 +378,10 @@
       <value>1k5</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="ust_id">5c70984512875079b91f898e</field>
+        <field name="UST_ID">5c70984512875079b91f898e</field>
       </fields>
       <libsource lib="PCRD01A-rescue" part="R" description=""/>
-      <property name="ust_id" value="5c70984512875079b91f898e"/>
+      <property name="UST_ID" value="5c70984512875079b91f898e"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PCRD01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -391,10 +391,10 @@
       <value>2k</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="ust_id">5c70984512875079b91f898f</field>
+        <field name="UST_ID">5c70984512875079b91f898f</field>
       </fields>
       <libsource lib="PCRD01A-rescue" part="R" description=""/>
-      <property name="ust_id" value="5c70984512875079b91f898f"/>
+      <property name="UST_ID" value="5c70984512875079b91f898f"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PCRD01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -404,10 +404,10 @@
       <value>2k</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="ust_id">5c70984512875079b91f898f</field>
+        <field name="UST_ID">5c70984512875079b91f898f</field>
       </fields>
       <libsource lib="PCRD01A-rescue" part="R" description=""/>
-      <property name="ust_id" value="5c70984512875079b91f898f"/>
+      <property name="UST_ID" value="5c70984512875079b91f898f"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PCRD01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -417,10 +417,10 @@
       <value>3k9</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="ust_id">5c70984612875079b91f8994</field>
+        <field name="UST_ID">5c70984612875079b91f8994</field>
       </fields>
       <libsource lib="PCRD01A-rescue" part="R" description=""/>
-      <property name="ust_id" value="5c70984612875079b91f8994"/>
+      <property name="UST_ID" value="5c70984612875079b91f8994"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PCRD01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -430,10 +430,10 @@
       <value>10k</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="ust_id">5c70984612875079b91f899f</field>
+        <field name="UST_ID">5c70984612875079b91f899f</field>
       </fields>
       <libsource lib="PCRD01A-rescue" part="R" description=""/>
-      <property name="ust_id" value="5c70984612875079b91f899f"/>
+      <property name="UST_ID" value="5c70984612875079b91f899f"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PCRD01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -443,10 +443,10 @@
       <value>4k7</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="ust_id">5c70984612875079b91f8995</field>
+        <field name="UST_ID">5c70984612875079b91f8995</field>
       </fields>
       <libsource lib="PCRD01A-rescue" part="R" description=""/>
-      <property name="ust_id" value="5c70984612875079b91f8995"/>
+      <property name="UST_ID" value="5c70984612875079b91f8995"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PCRD01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -456,10 +456,10 @@
       <value>MAX4475</value>
       <footprint>MLAB_IO:SOT-23-6</footprint>
       <fields>
-        <field name="ust_id">5c70984412875079b91f8799</field>
+        <field name="UST_ID">5c70984412875079b91f8799</field>
       </fields>
       <libsource lib="PCRD01A-rescue" part="MAX4475" description=""/>
-      <property name="ust_id" value="5c70984412875079b91f8799"/>
+      <property name="UST_ID" value="5c70984412875079b91f8799"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PCRD01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
