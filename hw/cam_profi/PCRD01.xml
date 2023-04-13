@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/PCRD01.kicad_sch</source>
-    <date>Thu Apr 13 01:03:34 2023</date>
+    <date>Thu Apr 13 08:43:44 2023</date>
     <tool>Eeschema 6.0.11+dfsg-1~bpo11+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -26,7 +26,7 @@
   <components>
     <comp ref="C1">
       <value>4u7</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5e3ff8fc1287502a33bad7a3</field>
       </fields>
@@ -39,7 +39,7 @@
     </comp>
     <comp ref="C2">
       <value>12p</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b31</field>
       </fields>
@@ -52,7 +52,7 @@
     </comp>
     <comp ref="C3">
       <value>100nF</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
@@ -65,7 +65,7 @@
     </comp>
     <comp ref="C5">
       <value>100nF</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
@@ -78,7 +78,7 @@
     </comp>
     <comp ref="C6">
       <value>10uF</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b53</field>
       </fields>
@@ -91,7 +91,7 @@
     </comp>
     <comp ref="C7">
       <value>100nF</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
@@ -104,7 +104,7 @@
     </comp>
     <comp ref="C8">
       <value>330nF</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b4e</field>
       </fields>
@@ -117,7 +117,7 @@
     </comp>
     <comp ref="C9">
       <value>100nF</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
@@ -130,7 +130,7 @@
     </comp>
     <comp ref="C10">
       <value>10uF</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b53</field>
       </fields>
@@ -143,7 +143,7 @@
     </comp>
     <comp ref="C11">
       <value>510pF</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b41</field>
       </fields>
@@ -156,7 +156,7 @@
     </comp>
     <comp ref="C12">
       <value>560pF</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b42</field>
       </fields>
@@ -169,7 +169,7 @@
     </comp>
     <comp ref="C13">
       <value>150pF</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b3d</field>
       </fields>
@@ -182,7 +182,7 @@
     </comp>
     <comp ref="C14">
       <value>330nF</value>
-      <footprint>MLAB_R:SMD-0805</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b4e</field>
       </fields>
@@ -195,7 +195,7 @@
     </comp>
     <comp ref="C15">
       <value>1u</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b50</field>
       </fields>
@@ -208,8 +208,8 @@
     </comp>
     <comp ref="J1">
       <value>JUMP_3X2</value>
-      <footprint>Hrebinky:Pin_Header_Straight_2x03</footprint>
-      <libsource lib="PCRD01A-rescue" part="JUMP_3X2" description=""/>
+      <footprint>Mlab_Pin_Headers:Straight_2x03</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_2x03_PARALLEL" description="2x03 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PCRD01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -217,8 +217,8 @@
     </comp>
     <comp ref="J2">
       <value>JUMP_5X2</value>
-      <footprint>Hrebinky:Pin_Header_Straight_2x05</footprint>
-      <libsource lib="PCRD01A-rescue" part="JUMP_5X2" description=""/>
+      <footprint>Mlab_Pin_Headers:Straight_2x05</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_2x05_PARALLEL" description="2x05 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PCRD01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -235,7 +235,7 @@
     </comp>
     <comp ref="J4">
       <value>CONN1_2</value>
-      <footprint>Hrebinky:Pin_Header_Straight_1x02</footprint>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
       <libsource lib="PCRD01A-rescue" part="CONN1_2" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PCRD01.kicad_sch"/>
@@ -244,8 +244,8 @@
     </comp>
     <comp ref="J5">
       <value>Out</value>
-      <footprint>Hrebinky:Pin_Header_Straight_2x03</footprint>
-      <libsource lib="PCRD01A-rescue" part="JUMP_3X2" description=""/>
+      <footprint>Mlab_Pin_Headers:Straight_2x03</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_2x03_PARALLEL" description="2x03 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PCRD01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -303,7 +303,7 @@
     </comp>
     <comp ref="R1">
       <value>4k7</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984612875079b91f8995</field>
       </fields>
@@ -316,7 +316,7 @@
     </comp>
     <comp ref="R2">
       <value>4k7</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984612875079b91f8995</field>
       </fields>
@@ -329,7 +329,7 @@
     </comp>
     <comp ref="R3">
       <value>2M</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8aac</field>
       </fields>
@@ -342,7 +342,7 @@
     </comp>
     <comp ref="R4">
       <value>2M</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8aac</field>
       </fields>
@@ -355,7 +355,7 @@
     </comp>
     <comp ref="R5">
       <value>3k3</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984612875079b91f8993</field>
       </fields>
@@ -368,7 +368,7 @@
     </comp>
     <comp ref="R6">
       <value>10k</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984612875079b91f899f</field>
       </fields>
@@ -381,7 +381,7 @@
     </comp>
     <comp ref="R7">
       <value>1k5</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f898e</field>
       </fields>
@@ -394,7 +394,7 @@
     </comp>
     <comp ref="R8">
       <value>2k</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f898f</field>
       </fields>
@@ -407,7 +407,7 @@
     </comp>
     <comp ref="R9">
       <value>2k</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f898f</field>
       </fields>
@@ -420,7 +420,7 @@
     </comp>
     <comp ref="R10">
       <value>3k9</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984612875079b91f8994</field>
       </fields>
@@ -433,7 +433,7 @@
     </comp>
     <comp ref="R11">
       <value>10k</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984612875079b91f899f</field>
       </fields>
@@ -446,7 +446,7 @@
     </comp>
     <comp ref="R12">
       <value>4k7</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984612875079b91f8995</field>
       </fields>
@@ -491,6 +491,40 @@
         <pin num="1" name="" type="input"/>
         <pin num="2" name="" type="input"/>
         <pin num="3" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MLAB_HEADER" part="HEADER_2x03_PARALLEL">
+      <description>2x03 2.54 mm pitch header, 2 pins next to each other are connected</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">HEADER_2x03_PARALLEL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MLAB_HEADER" part="HEADER_2x05_PARALLEL">
+      <description>2x05 2.54 mm pitch header, 2 pins next to each other are connected</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">HEADER_2x05_PARALLEL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="input"/>
+        <pin num="7" name="" type="input"/>
+        <pin num="8" name="" type="input"/>
+        <pin num="9" name="" type="input"/>
+        <pin num="10" name="" type="input"/>
       </pins>
     </libpart>
     <libpart lib="PCRD01A-rescue" part="AD8692">
@@ -563,38 +597,6 @@
         <pin num="2" name="K" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="PCRD01A-rescue" part="JUMP_3X2">
-      <fields>
-        <field name="Reference">J</field>
-        <field name="Value">JUMP_3X2</field>
-      </fields>
-      <pins>
-        <pin num="1" name="1" type="passive"/>
-        <pin num="2" name="1" type="passive"/>
-        <pin num="3" name="3" type="passive"/>
-        <pin num="4" name="" type="passive"/>
-        <pin num="5" name="" type="passive"/>
-        <pin num="6" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="PCRD01A-rescue" part="JUMP_5X2">
-      <fields>
-        <field name="Reference">J</field>
-        <field name="Value">JUMP_5X2</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-        <pin num="3" name="" type="passive"/>
-        <pin num="4" name="" type="passive"/>
-        <pin num="5" name="" type="passive"/>
-        <pin num="6" name="" type="passive"/>
-        <pin num="7" name="" type="passive"/>
-        <pin num="8" name="" type="passive"/>
-        <pin num="9" name="" type="passive"/>
-        <pin num="10" name="" type="passive"/>
-      </pins>
-    </libpart>
     <libpart lib="PCRD01A-rescue" part="MAX4475">
       <fields>
         <field name="Reference">U</field>
@@ -665,8 +667,8 @@
       <node ref="U1" pin="5" pinfunction="#SHDN" pintype="bidirectional"/>
     </net>
     <net code="2" name="/+Ubias">
-      <node ref="J1" pin="2" pinfunction="1" pintype="passive"/>
-      <node ref="J1" pin="5" pintype="passive"/>
+      <node ref="J1" pin="3" pintype="input"/>
+      <node ref="J1" pin="4" pintype="input"/>
       <node ref="R2" pin="2" pintype="passive"/>
     </net>
     <net code="3" name="/A">
@@ -690,19 +692,19 @@
       <node ref="C6" pin="2" pintype="passive"/>
       <node ref="C7" pin="2" pintype="passive"/>
       <node ref="C9" pin="2" pintype="passive"/>
-      <node ref="J1" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="J1" pin="3" pinfunction="3" pintype="passive"/>
-      <node ref="J1" pin="4" pintype="passive"/>
-      <node ref="J1" pin="6" pintype="passive"/>
-      <node ref="J2" pin="1" pintype="passive"/>
-      <node ref="J2" pin="10" pintype="passive"/>
-      <node ref="J2" pin="5" pintype="passive"/>
-      <node ref="J2" pin="6" pintype="passive"/>
+      <node ref="J1" pin="1" pintype="input"/>
+      <node ref="J1" pin="2" pintype="input"/>
+      <node ref="J1" pin="5" pintype="input"/>
+      <node ref="J1" pin="6" pintype="input"/>
+      <node ref="J2" pin="1" pintype="input"/>
+      <node ref="J2" pin="10" pintype="input"/>
+      <node ref="J2" pin="2" pintype="input"/>
+      <node ref="J2" pin="9" pintype="input"/>
       <node ref="J3" pin="2" pintype="input"/>
-      <node ref="J5" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="J5" pin="3" pinfunction="3" pintype="passive"/>
-      <node ref="J5" pin="4" pintype="passive"/>
-      <node ref="J5" pin="6" pintype="passive"/>
+      <node ref="J5" pin="1" pintype="input"/>
+      <node ref="J5" pin="2" pintype="input"/>
+      <node ref="J5" pin="5" pintype="input"/>
+      <node ref="J5" pin="6" pintype="input"/>
       <node ref="P1" pin="1" pinfunction="P1" pintype="passive"/>
       <node ref="P2" pin="1" pinfunction="P1" pintype="passive"/>
       <node ref="P3" pin="1" pinfunction="P1" pintype="passive"/>
@@ -764,8 +766,8 @@
     </net>
     <net code="15" name="Net-(C14-Pad2)">
       <node ref="C14" pin="2" pintype="passive"/>
-      <node ref="J5" pin="2" pinfunction="1" pintype="passive"/>
-      <node ref="J5" pin="5" pintype="passive"/>
+      <node ref="J5" pin="3" pintype="input"/>
+      <node ref="J5" pin="4" pintype="input"/>
       <node ref="R11" pin="1" pintype="passive"/>
     </net>
     <net code="16" name="Net-(C15-Pad1)">
@@ -777,8 +779,8 @@
       <node ref="C3" pin="1" pintype="passive"/>
       <node ref="C5" pin="1" pintype="passive"/>
       <node ref="C6" pin="1" pintype="passive"/>
-      <node ref="J2" pin="3" pintype="passive"/>
-      <node ref="J2" pin="8" pintype="passive"/>
+      <node ref="J2" pin="5" pintype="input"/>
+      <node ref="J2" pin="6" pintype="input"/>
       <node ref="J4" pin="2" pinfunction="PM" pintype="passive"/>
       <node ref="Q1" pin="2" pinfunction="D" pintype="passive"/>
       <node ref="U1" pin="6" pinfunction="V+" pintype="passive"/>
@@ -788,10 +790,10 @@
       <node ref="C10" pin="1" pintype="passive"/>
       <node ref="C7" pin="1" pintype="passive"/>
       <node ref="C9" pin="1" pintype="passive"/>
-      <node ref="J2" pin="2" pintype="passive"/>
-      <node ref="J2" pin="4" pintype="passive"/>
-      <node ref="J2" pin="7" pintype="passive"/>
-      <node ref="J2" pin="9" pintype="passive"/>
+      <node ref="J2" pin="3" pintype="input"/>
+      <node ref="J2" pin="4" pintype="input"/>
+      <node ref="J2" pin="7" pintype="input"/>
+      <node ref="J2" pin="8" pintype="input"/>
       <node ref="R1" pin="2" pintype="passive"/>
       <node ref="U1" pin="2" pinfunction="V-" pintype="passive"/>
       <node ref="U2" pin="4" pinfunction="V-" pintype="passive"/>
