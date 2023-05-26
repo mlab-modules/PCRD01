@@ -1,17 +1,22 @@
 description: Semiconcductor cosmic radiation detector Silicon diode interface.
 github_branch: PCRD01B
+github_branches:
+- PCRD01A
+- PCRD01B
 github_repo: PCRD01
 github_url: https://github.com/mlab-modules/PCRD01
 homepage: false
+image: doc/img/PCRD01A_top_small.jpg
 images:
 - doc/img/PCRD01A_top_small.jpg
 - doc/img/PCRD01A_QRcode.png
 - doc/gen/img/PCRD01-bottom.png
 - doc/gen/img/PCRD01-top.png
+- hw/cam_profi/docs/PCRD01B-assembly_page_01.svg
+- hw/cam_profi/docs/PCRD01B-assembly_page_02.svg
 - doc/gen/PCRD01-schematic.svg
 - doc/gen/img/PCRD01-top.svg
-- hw/cam_profi/docs/PCRD01B-assembly_page_02.svg
-- hw/cam_profi/docs/PCRD01B-assembly_page_01.svg
+issues: 1
 mark: 50
 mod_ibom: hw/cam_profi/ibom/PCRD01-ibom.html
 mod_scheme: doc/gen/PCRD01-schematic.pdf
