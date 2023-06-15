@@ -12,11 +12,11 @@ images:
 - doc/img/PCRD01A_QRcode.png
 - doc/gen/img/PCRD01-bottom.png
 - doc/gen/img/PCRD01-top.png
-- hw/cam_profi/docs/PCRD01B-assembly_page_01.svg
-- hw/cam_profi/docs/PCRD01B-assembly_page_02.svg
 - doc/gen/PCRD01-schematic.svg
 - doc/gen/img/PCRD01-top.svg
 - doc/gen/img/PCRD01-bottom.svg
+- hw/cam_profi/docs/PCRD01B-assembly_page_02.svg
+- hw/cam_profi/docs/PCRD01B-assembly_page_01.svg
 issues: 1
 mark: 50
 mod_ibom: hw/cam_profi/ibom/PCRD01-ibom.html
